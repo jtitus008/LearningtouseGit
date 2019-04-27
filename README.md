@@ -6,5 +6,5 @@ This is my attempt to learn to push and pull from Git
 # Commit to GIT
 - I am now about to attempt to commit back to the GIT repo, where I pulled this from.
 
-# Commit to GIT
-- I am now about to attempt to commit back to the GIT repo, where I pulled this from.
+# Fixing File
+- I'm am now deleting a section that appeared by accident.
